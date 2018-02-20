@@ -1,4 +1,4 @@
-package santoshApp;
+package com.foodviolators.controller;
 
 public class Greeting {
 

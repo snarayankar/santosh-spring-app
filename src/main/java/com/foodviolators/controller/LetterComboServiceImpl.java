@@ -1,4 +1,4 @@
-package santoshApp;
+package com.foodviolators.controller;
 
 import java.util.ArrayList;
 import java.util.HashMap;
